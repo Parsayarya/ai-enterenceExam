@@ -2,7 +2,7 @@
 First I sorted the file based on the speakers,highlighted the outliers then started to notice that some of the rows of speaker/voices don't have sufficient data.
 Then based on that observation I reached to the conclusion that diffrent voices/categories can not be judged by the same criteria.
 After that I moved on to calculating the error percentages.
-\n
+/n
 **first question**
 There are several basic issues with the distribution of the errors for example the fact that we have no (خطای اعراب) errors wich could be the result of classifying those errors as other ones for example(خطای نگارش) or (خطای پیاده سازی) other than that the fact that we had the same amount of (خطای اعداد )  errors as (خطای کمتر از 10) errors seemed a bit strange.
 Then there was the issue of (کلمات دخیل ) error which was a lot more than the expected amount which could have some implications with the method which was implemented to catch this kind of error how catching.
